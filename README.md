@@ -6,7 +6,7 @@
 Lover of Technology and Coding 💌 <img src="{BadgeURLHere }" />
 
 💻: I'm Front-End Developer!
-br
+<br>
 🏠: I'm from Brazil.
 📚: I'm currently learning everrything.
 📤: 2024 Goals: create a new projects and find a new job.
