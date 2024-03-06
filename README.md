@@ -31,6 +31,10 @@ Lover of Technology and Coding 💌
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silviofacanha&theme=dark&hide_langs_below=1" />
 </a>
 
+<a href="https://github.com/Silviofacanha">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Silviofacanha&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
 ## Languages
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><code>
 <code><img height="20" src=""><code>
