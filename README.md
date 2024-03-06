@@ -25,6 +25,12 @@ Lover of Technology and Coding 💌
 [![Silviofacanha GitHub stats](https://github-readme-stats.vercel.app/api?username=Silviofacanha)](https://github.com/Silviofacanha/github-readme-stats)
 [![Top Langs](https://github-readme-starts.vercel.app/api/top-langs/?username=Silviofacanha&layout=compact)](https://githib.com/Silviofacanha/github-readme-stats)
 
+<br>
+
+<a href="https://github.com/Silviofacanha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silviofacanha&theme=dark&hide_langs_below=1" />
+</a>
+
 ## Languages
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><code>
 <code><img height="20" src=""><code>
