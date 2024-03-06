@@ -3,12 +3,14 @@
 
 ## SILVIO FAÇANHA
 
-Lover of Technology and Coding 💌 <img src="{BadgeURLHere }" />
+Lover of Technology and Coding 💌 
 
 💻: I'm Front-End Developer!
 <br>
 🏠: I'm from Brazil.
+<br>
 📚: I'm currently learning everrything.
+<br>
 📤: 2024 Goals: create a new projects and find a new job.
 
 
@@ -16,7 +18,7 @@ Lover of Technology and Coding 💌 <img src="{BadgeURLHere }" />
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Silviofacanha)](https://github.com/Silviofacanha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Silviofacanha/)](https://github.com/Silviofacanha)
-[[!Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 
 ## Languages end Tool:
