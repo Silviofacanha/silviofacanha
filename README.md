@@ -3,7 +3,7 @@
 
 ## SILVIO FAÇANHA
 
-Lover of Technology and Coding 💌 <img alt="GIF" src=https://github.com/Silviofacanha/silviogfacanha/assets/83619103/23beac5c-426c-4db7-b7b7-a76766cd7080
+Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofacanha/silviogfacanha/assets/83619103/23beac5c-426c-4db7-b7b7-a76766cd7080
  width="20px" />
 
 
@@ -18,7 +18,7 @@ Lover of Technology and Coding 💌 <img alt="GIF" src=https://github.com/Silvio
 
 [![Github Badge](https://img.shields.io/badge/-Github-1000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Silviofacanha)](https://github.com/Silviofacanha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Silviofacanha/)](https://github.com/Silviofacanha)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvio.facanha@gmail.com)
 
 
 ## Languages end Tool:
