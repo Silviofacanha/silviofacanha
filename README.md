@@ -43,7 +43,7 @@ Lover of Technology and Coding 💌
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Silviofacanha&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 
-[Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
+[![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
 
 ## Languages
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><code>
