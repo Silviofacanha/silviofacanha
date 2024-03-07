@@ -17,7 +17,7 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 ## Abount me
 
 [![Github Badge](https://img.shields.io/badge/-Github-100000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Silviofacanha)](https://github.com/Silviofacanha)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/silvio-façanha-1342b6218)](linkedin.com/in/silvio-façanha-1342b6218)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=linkedin.com/in/silvio-façanha-1342b6218)](linkedin.com/in/silvio-façanha-1342b6218)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=silvio.facanha@gmail.com)](https://github.com/Silviofacanha)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100063706913429)](https://www.facebook.com/profile.php?id=100063706913429)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://github.com/Silviofacanha/)](https://github.com/Silviofacanha)
