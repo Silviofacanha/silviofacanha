@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## SILVIO FAÇANHA
-<img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/f7046d39-202d-45f5-9830-f148714b14db" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/bcddfa5d-4789-4b3e-ae91-bc5728c4d483" width="190" />
 
 
 Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
