@@ -10,7 +10,7 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 - 💻: I'm Front-End Developer!👨‍💻
 - 🏠: I'm from Brazil.
 - 🔭: I’m currently working on: Empresa S R DE OLIVEIRA
-- 🌱: I’m currently learning ...
+- 🌱: I’m currently learning MIcrosoft Azure AI Fundamentals
 - 📤: 2024 Goals: create a new projects and find a new job.
 
 
@@ -71,8 +71,6 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 <code><img height="20" src=""><code>
 -->
 
-
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
@@ -125,3 +123,5 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
     </tr>
   </tbody>
 </table>
+
+# - Thanks for visiting.
