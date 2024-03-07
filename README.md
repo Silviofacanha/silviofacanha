@@ -3,7 +3,7 @@
 
 ## SILVIO FAÇANHA
 
-Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96 height="20"  width="100px" />
+Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
 
 
 - 💻: I'm Front-End Developer!👨‍💻
