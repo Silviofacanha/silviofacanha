@@ -43,8 +43,7 @@ Lover of Technology and Coding 💌
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Silviofacanha&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
 
-[![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Silviofacanha&show_icons=true&hide_border=true)
-
+<br>
 ## Languages
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><code>
 <code><img height="20" src=""><code>
@@ -52,10 +51,11 @@ Lover of Technology and Coding 💌
 <code><img height="20" src="https://img.shields.io/badge/CSS-E57000?style=for-the-badge&logo=CSS&logoColor=white"><code>
 <code><img height="20" src=""><code>
 
+<br>
 ## IDE
 <code><img height="20" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><code>
 
-
+<br>
 ## Frameworks & Library. 
 <code><img height="20" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white"><code>
 <code><img height="20" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"><code>
