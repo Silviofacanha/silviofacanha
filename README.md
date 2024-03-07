@@ -31,7 +31,7 @@ Lover of Technology and Coding 💌
 </a>
 
 <a href="https://github.com/Silviofacanha/Silviofacanha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Silviofacanha&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Silviofacanha&repo=Silviofacanha&theme=dark" />
 </a>
 
 <a href="https://github.com/Silviofacanha/Fun-with-DS-and-Algo">
