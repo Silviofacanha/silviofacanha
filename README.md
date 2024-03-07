@@ -3,7 +3,7 @@
 
 ## SILVIO FAÇANHA
 
-Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/8172794a-fcd4-4de1-8682-fb42321eba0c
+Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/78b6f3bd-34c8-4aac-87d3-62136a19fa3e
  width="20px" />
 
 
