@@ -1,18 +1,16 @@
 # Hi there 👋
 
-
 ## SILVIO FAÇANHA
 
-Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
+Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="/Assets/giphy.gif" width="190" />
 
 - 💻: I'm Front-End Developer!👨‍💻
 - 🏠: I'm from Brazil.
 - 🔭: I’m currently working on: Empresa S R DE OLIVEIRA
 - 🌱: I’m currently learning MIcrosoft Azure AI Fundamentals
 - 📤: 2024 Goals: create a new projects and find a new job.
-
 
 ## Abount me
 
@@ -21,7 +19,7 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=silvio.facanha@gmail.com)](https://github.com/Silviofacanha)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100063706913429)](https://www.facebook.com/profile.php?id=100063706913429)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://github.com/Silviofacanha/)](https://github.com/Silviofacanha)
-[![Dio Badge](https://img.shields.io/badge/Dio-0052CC?style=for-the-badge&logo=Dio&logoColor=white&link=https://www.dio.me/users/silvio_facanha)](https://www.dio.me/users/silvio_facanha)
+[![Dio Badge](https://img.shields.io/badge/Dio-0052CC?style=flat-square&logo=Dio&logoColor=white&link=https://www.dio.me/users/silvio_facanha)](https://www.dio.me/users/silvio_facanha)
 
 <!--
 https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
@@ -30,6 +28,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 -->
 
 ## Languages end Tool:
+
 <a href="https://github.com/Silviofacanha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silviofacanha&theme=dark&hide_langs_below=1" />
 </a>
