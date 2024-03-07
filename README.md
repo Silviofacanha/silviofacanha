@@ -30,7 +30,7 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Silviofacanha&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
 </a>
 
-<a href="https://github.com/Silviofacanha/Silviofacanha">
+<a href="https://github.com/Silviofacanha/Silviogfacanha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Silviofacanha&repo=Silviofacanha&theme=dark" />
 </a>
 <!--
