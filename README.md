@@ -55,7 +55,9 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 <br>
 ## Frameworks & Library. 
 <code><img height="20" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white"><code>
+   </td>
 <code><img height="20" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"><code>
+   </td>
 <code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><code>
 <code><img height="20" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"><code>
@@ -76,8 +78,7 @@ Enjoy it!!
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="[![image](https://github.com/Silviofacanha/silviogfacanha/assets/83619103/7319a67a-bbef-4bf0-93c7-ffccab3f1e48)]
-">
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
@@ -110,23 +111,7 @@ Enjoy it!!
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-      </td>
+   
     </tr>
   </tbody>
 </table>
