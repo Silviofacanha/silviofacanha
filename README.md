@@ -76,7 +76,8 @@ Enjoy it!!
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="64px" src="https://github.com/Silviofacanha/silviogfacanha/assets/83619103/c6b44fcb-9124-4316-98b5-9e0b8b535240
+">
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
