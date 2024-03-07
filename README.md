@@ -74,7 +74,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 <code><img height="20" src=""><code>
 -->
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## What am I learning
 
 <table>
   <tbody>
