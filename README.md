@@ -124,4 +124,4 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
   </tbody>
 </table>
 
-# - Thanks for visiting.
+## - Thanks for visiting.
