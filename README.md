@@ -1,17 +1,15 @@
-# WELCOME!
+### Hi there 👋
 
 
 ## SILVIO FAÇANHA
 
 Lover of Technology and Coding 💌 
 
-💻: I'm Front-End Developer!
-<br>
-🏠: I'm from Brazil.
-<br>
-📚: I'm currently learning everrything.
-<br>
-📤: 2024 Goals: create a new projects and find a new job.
+- 💻: I'm Front-End Developer!
+- 🏠: I'm from Brazil.
+- 🔭: I’m currently working on: Empresa S R DE OLIVEIRA
+- 📚: I'm currently learning everrything.
+- 📤: 2024 Goals: create a new projects and find a new job.
 
 
 ## Abount me
@@ -33,10 +31,12 @@ Lover of Technology and Coding 💌
 <a href="https://github.com/Silviofacanha/Silviofacanha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Silviofacanha&repo=Silviofacanha&theme=dark" />
 </a>
-
+<!--
 <a href="https://github.com/Silviofacanha/Fun-with-DS-and-Algo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Silviofacanha&repo=Fun-with-DS-and-Algo&theme=dark" />
 </a>
+-->
+
 
 <br>
 ## Languages
