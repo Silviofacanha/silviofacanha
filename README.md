@@ -5,10 +5,10 @@
 
 Lover of Technology and Coding 💌 
 
-- 💻: I'm Front-End Developer!
+- 💻: I'm Front-End Developer!👨‍💻
 - 🏠: I'm from Brazil.
 - 🔭: I’m currently working on: Empresa S R DE OLIVEIRA
-- 📚: I'm currently learning everrything.
+- 🌱: I’m currently learning ...
 - 📤: 2024 Goals: create a new projects and find a new job.
 
 
