@@ -21,10 +21,11 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=silvio.facanha@gmail.com)](https://github.com/Silviofacanha)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100063706913429)](https://www.facebook.com/profile.php?id=100063706913429)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://github.com/Silviofacanha/)](https://github.com/Silviofacanha)
-[![Dio Badge](https://img.shields.io/badge/Dio-25D366?style=flat-square&logo=Dio&logoColor=white&link=)](https://www.dio.me/users/silvio_facanha)
+[![Dio Badge](https://img.shields.io/badge/Dio.-1877F2?style=flat-square&logo=Dio&logoColor=white&link=)](https://www.dio.me/users/silvio_facanha)
 
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
 <!--
+https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
+
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white&link=https://github.com/Silviofacanha/)](https://github.com/Silviofacanha)
 -->
 
