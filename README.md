@@ -94,13 +94,13 @@ Enjoy it!!
       <td width="25%" align="center">
         <span>𝗩𝘂𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
+      </td>     
+    </tr>
+    <tr valign="top"> 
      <td width="25%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-    </tr>
-    <tr valign="top">     
            <td width="25%" align="center">
         <span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
