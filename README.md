@@ -4,7 +4,7 @@
 ## SILVIO FAÇANHA
 
 Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7faad48b-0a0f-490f-8f2f-4aee0dce99ac
- width="20px" />
+ width="100px" />
 
 
 - 💻: I'm Front-End Developer!👨‍💻
