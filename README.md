@@ -42,23 +42,20 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 -->
 
 <br>
-
+<!--
 ### Languages
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><code>
 <code><img height="20" src=""><code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-E57000?style=for-the-badge&logo=CSS&logoColor=white"><code>
 <code><img height="20" src=""><code>
-
-<br>
-
+-->
+<!--
 ### IDE
 <code><img height="20" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><code>
-
-<br>
-
+-->
+<!--
 ## Frameworks & Library. 
-
 <code><img height="20" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white"><code>  
 <code><img height="20" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"><code>
 <code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><code>
@@ -69,11 +66,9 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 <code><img height="20" src=""><code>
 <code><img height="20" src=""><code>
 <code><img height="20" src=""><code>
+-->
 
 
-Thanks for visitanting.
-
-Enjoy it!!
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
