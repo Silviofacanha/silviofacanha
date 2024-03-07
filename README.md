@@ -58,6 +58,7 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 <br>
 
 ## Frameworks & Library. 
+
 <code><img height="20" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white"><code>  
 <code><img height="20" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"><code>
 <code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><code>
@@ -74,7 +75,7 @@ Thanks for visitanting.
 
 Enjoy it!!
 
-# 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
