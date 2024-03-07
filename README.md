@@ -49,15 +49,15 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 <code><img height="20" src=""><code>
 
 <br>
+
 ## IDE
 <code><img height="20" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><code>
 
 <br>
+
 ## Frameworks & Library. 
-<code><img height="20" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white"><code>
-   </td>
+<code><img height="20" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white"><code>  
 <code><img height="20" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"><code>
-   </td>
 <code><img height="20" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><code>
 <code><img height="20" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"><code>
@@ -76,6 +76,10 @@ Enjoy it!!
 <table>
   <tbody>
     <tr valign="top">
+     td width="25%" align="center">
+        <span>REACT</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
