@@ -1,10 +1,11 @@
 # Hi there 👋
 
 ## SILVIO FAÇANHA
+<img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/9d1b38d7-87f7-4423-bbd8-38419d25ad14" width="190" />
 
 Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
 
-<img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/Assets/giphy.gif" width="190" />
+
 
 - 💻: I'm Front-End Developer!👨‍💻
 - 🏠: I'm from Brazil.
