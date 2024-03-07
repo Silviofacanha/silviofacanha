@@ -16,9 +16,11 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 
 ## Abount me
 
-[![Github Badge](https://img.shields.io/badge/-Github-1000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Silviofacanha)](https://github.com/Silviofacanha)
+[![Github Badge](https://img.shields.io/badge/-Github-100000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Silviofacanha)](https://github.com/Silviofacanha)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Silviofacanha/)](https://github.com/Silviofacanha)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvio.facanha@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvio.facanha@gmail.com)]
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)]
 
 
 ## Languages end Tool:
@@ -95,7 +97,7 @@ Enjoy it!!
       </td>
      <td width="25%" align="center">
         <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr valign="top">     
