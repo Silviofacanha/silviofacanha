@@ -41,9 +41,9 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 </a>
 -->
 
-
 <br>
-## Languages
+
+### Languages
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><code>
 <code><img height="20" src=""><code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><code>
@@ -52,7 +52,7 @@ Lover of Technology and Coding  <img alt="GIF" src=https://github.com/Silviofaca
 
 <br>
 
-## IDE
+### IDE
 <code><img height="20" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><code>
 
 <br>
