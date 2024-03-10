@@ -99,7 +99,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
     </tr>
     <tr valign="top"> 
      <td width="25%" align="center">
-        <span>React</span><br><br><br>
+        <span>**React**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
            <td width="25%" align="center">
