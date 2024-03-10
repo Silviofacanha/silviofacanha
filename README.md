@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="/Assets/giphy.gif">
+<img src="/Assets/giphy.gif" width="190">
 
 
 
