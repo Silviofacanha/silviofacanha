@@ -3,10 +3,9 @@
 
 ## SILVIO FAÇANHA
 
-Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
-
 ## Abount me
-<img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/bcddfa5d-4789-4b3e-ae91-bc5728c4d483" width="190" />
+Lover of Technology and Coding <img alt="GIF" src=https://github.com/Silviofacanha/silviofacanha/assets/83619103/7687d775-ddd4-4eee-a94c-bd07ace67f96  width="20px" />
+<img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/bcddfa5d-4789-4b3e-ae91-bc5728c4d483" width="150" />
 - 💻: I'm Front-End Developer!👨‍💻
 - 🏠: I'm from Brazil.
 - 🔭: I’m currently working on: Empresa S R DE OLIVEIRA
