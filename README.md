@@ -128,4 +128,4 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
   </tbody>
 </table>
 
-## - --**Thanks for visiting.**--
+## - __**Thanks for visiting.**__
