@@ -1,4 +1,6 @@
 # Hi there 👋
+![image](https://github.com/Silviofacanha/silviofacanha/assets/83619103/46d3651c-aa2a-44ef-abbe-4a4948c7c968)
+
 
 ## SILVIO FAÇANHA
 <img align="right" alt="PC GIF" src="https://github.com/Silviofacanha/silviofacanha/assets/83619103/bcddfa5d-4789-4b3e-ae91-bc5728c4d483" width="190" />
@@ -99,7 +101,7 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
     </tr>
     <tr valign="top"> 
      <td width="25%" align="center">
-        <span>**React**</span><br><br><br>
+        <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
            <td width="25%" align="center">
