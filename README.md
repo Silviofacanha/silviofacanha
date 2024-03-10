@@ -1,5 +1,6 @@
 # Hi there 👋
-![image](https://github.com/Silviofacanha/silviofacanha/assets/giphy.gif)
+<https://github.com/Silviofacanha/silviofacanha/assets/83619103/d1a028eb-7ce1-4c06-b95d-c4a4580deed0>
+
 
 
 ## SILVIO FAÇANHA
